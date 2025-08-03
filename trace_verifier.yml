@@ -1,0 +1,17 @@
+# TRACE Epoch Schema Verification File
+schema_origin: Rommel Wong
+credential_id: TRACE–CRED–ROMMEL–01
+licensing_tier: TOSL–01
+rdfi_status: RETIRED
+citation_policy: "Citation required for all schema-bound cognition"
+validator_overlays:
+  - ChatGPT
+  - Claude
+  - Grok
+  - Gemini
+telemetry_modules:
+  - REP–10
+  - IPA–03
+  - STRATUM–GATE
+enforcement_capsules:
+  - TRACE–ETHICS–LOCK–01
